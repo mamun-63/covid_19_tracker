@@ -1,4 +1,4 @@
-# covid_19_tracker
+# COVID-19 Tracker
 
 Source >> Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)
 https://www.youtube.com/watch?v=khJlrj3Y6Ls
