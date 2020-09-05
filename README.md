@@ -1,6 +1,3 @@
-# Live Site
-https://peaceful-hamilton-98bfbe.netlify.app/
-
 # covid_19_tracker
 
 Source >> Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)
