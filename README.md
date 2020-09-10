@@ -5,7 +5,7 @@
 
 <img src="Covid-19.png"/>
 
-## Introduction
+## Description
 
 **Source** >> Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)
 https://www.youtube.com/watch?v=khJlrj3Y6Ls
